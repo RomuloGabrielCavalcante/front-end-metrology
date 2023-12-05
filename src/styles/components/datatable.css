@@ -1,0 +1,14 @@
+ .container-header-datatable{
+    display: flex;
+
+    justify-content: space-between;
+ }
+
+
+
+ .container-home-datatable{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+} 

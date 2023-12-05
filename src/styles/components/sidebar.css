@@ -1,0 +1,19 @@
+.container-sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+
+    overflow: scroll;
+}
+
+.container-titulo{
+    background-color: #69a5fe;
+    margin-left: 0.2em;
+    display: flex;
+    padding-left: 10px;
+    border-radius: 8px;
+    height: 50px;
+}
+.container-botao-sidebar{
+    padding-top: 1em;
+}

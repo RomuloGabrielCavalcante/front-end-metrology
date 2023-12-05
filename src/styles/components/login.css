@@ -1,0 +1,25 @@
+.container-login{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .input{
+
+    width: 25em;
+    height: 3em;
+
+}
+.login{
+    font: 2em sans-serif;
+}
+
+.button{
+    width: 25em;
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}

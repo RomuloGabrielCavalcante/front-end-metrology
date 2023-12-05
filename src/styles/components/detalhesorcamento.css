@@ -1,0 +1,22 @@
+.textarea-container{
+    display: flex;
+    justify-content: space-between;
+}
+.textarea{
+    display: flex;
+    flex-direction: column;
+    width: 40em;
+}
+
+.valores-container{
+    flex-direction: column;
+}
+
+.valores{
+    font-weight: 800;
+    padding-left:1em ;
+}
+.valores-titulo{
+    display: flex;
+    align-items: center;
+}
